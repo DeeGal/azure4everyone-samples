@@ -4,4 +4,11 @@
     "name": "reminder",
     "description": "Set up meeting with Tom.",
     "isComplete": false
+Personal: {
+    "id": "1",
+    "category": "personal",
+    "name": "groceries",
+    "description": "Pick up apples and strawberries.",
+    "isComplete": false
+}
 }
