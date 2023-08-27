@@ -2,6 +2,13 @@
     "id": "2",
     "category": "business",
     "name": "reminder",
-    "description": "Set up meeting with Tom.",
+    "description": "Attend ITRI 623 class on Wednesday.",
+    "isComplete": false,
+    "Personal:"{
+    "id": "2",
+    "category": "personal",
+    "name": "groceries",
+    "description": "Buy apples and strawberries on Thursday.",
     "isComplete": false
+}
 }
